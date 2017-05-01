@@ -1,2 +1,0 @@
-class DockerStackError(Exception):
-    pass
